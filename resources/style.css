@@ -339,7 +339,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../images/IRSKDD2021.png");
+    background            : url("../images/Logo.png");
     background-size       : contain;
     padding               : 0;
     margin                : 0;
@@ -783,7 +783,7 @@ button:focus,
 
 #status,
 .status-mes {
-    background-image    : url("../images/IRSKDD2020.png");
+    background-image    : url("../images/Logo.png");
     background-position : center;
     background-repeat   : no-repeat;
     height              : 200px;
